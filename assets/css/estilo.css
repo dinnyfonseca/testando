@@ -1,0 +1,30 @@
+
+.navbar{
+    background-color: #99004d;
+    color: wheat;
+}
+
+#menu-programeninas li a{
+    color: wheat;
+}
+.navbar-inverse .navbar-brand {
+    color: wheat;
+}
+.ajuste{
+    text-align: center;
+}
+.ah{
+    text-align: center;
+}
+footer{
+    background-color: #99004d;
+    color: wheat;
+    margin-top: 10px;
+    padding: 20px;  
+}
+.center{
+     bottom: 0;
+        position: fixed;
+        width: 100%;
+        text-align: cente
+}
